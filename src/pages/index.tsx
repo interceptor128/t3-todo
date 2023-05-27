@@ -75,7 +75,7 @@ const TodoApp: NextPage = () => {
                   {todo.text}
                 </span>
                 <button
-                  className="ml-auto rounded bg-red 500 px-2 py-1 font-bold text-white hover:bg-red-700"
+                  className="ml-auto rounded bg-red-two 500 px-2 py-1 font-bold text-white hover:bg-red-700"
                   onClick={() => handleDeleteTodo(todo.id)}
                 >
                   ×

@@ -18,6 +18,13 @@ export default {
         four: "#374151",
         five: "#111827",
       },
+      red: {
+        one: "#fecaca",
+        two: "#fca5a5",
+        three: "#dc2626",
+        four: "#b91c1c",
+        five: "#7f1d1d",
+      },
       olive: {
         one: "#E1EAE2",
         two: "#DAE5DB",
